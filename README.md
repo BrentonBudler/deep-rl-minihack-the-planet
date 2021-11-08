@@ -5,17 +5,17 @@ This repository serves as the codebase for a Reinforcement Learning assignment a
 ### Performance on select environments:
 
 #### Room 5x5 DQN
-![alt text](https://github.com/BrentonBudler/deep-rl-minihack-the-planet/blob/main/plots/room5x5_dqn.png)
+![alt text](https://github.com/BrentonBudler/deep-rl-minihack-the-planet/blob/main/plots/DQN-Room-5x5-v0.png)
 #### Room 5x5 Actor-Critic
 ![alt text](https://github.com/BrentonBudler/deep-rl-minihack-the-planet/blob/main/plots/Actor-Critic-Room-5x5-v0.png)
 
 #### Eat DQN
-![alt text](https://github.com/BrentonBudler/deep-rl-minihack-the-planet/blob/main/plots/eat_dqn.png)
+![alt text](https://github.com/BrentonBudler/deep-rl-minihack-the-planet/blob/main/plots/DQN-Eat-v0.png)
 #### Eat Actor-Critic
 ![alt text](https://github.com/BrentonBudler/deep-rl-minihack-the-planet/blob/main/plots/Actor-Critic-Eat-v0.png)
 
 #### Quest Hard DQN
-![alt text](https://github.com/BrentonBudler/deep-rl-minihack-the-planet/blob/main/plots/quest_hard_qn.png)
+![alt text](https://github.com/BrentonBudler/deep-rl-minihack-the-planet/blob/main/plots/DQN-Quest-Hard-v0.png)
 #### Quest Hard Custom Reward Actor-Critic
 ![alt text](https://github.com/BrentonBudler/deep-rl-minihack-the-planet/blob/main/plots/Actor-Critic-Quest-Hard-v0.png)
 
